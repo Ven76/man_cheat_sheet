@@ -1,4 +1,4 @@
-@options = ['cd', 'mkdir', 'touch', 'vim', 'cat']
+@options = ['cd', 'mkdir', 'touch', 'vim', 'cat', 'ls' ] 
 
 def main_menu
   puts '*** Command Line Menu ***'
